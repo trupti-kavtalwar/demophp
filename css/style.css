@@ -1,0 +1,15 @@
+.table .edit-btn i{
+    position: absolute;
+    top: 60%;
+    right:0;
+    z-index: 999;
+    margin:auto;
+    padding: 0;
+}
+.table {
+    position: relative;
+
+}
+.table .edit-btn a{
+    display: inline-block;
+}
